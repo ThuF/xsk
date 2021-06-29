@@ -1,8 +1,0 @@
-{
-  "Customers": {
-    "target": {
-      "object": "hdi-ext::Customers",
-      "schema": "DBADMIN"
-    }
-  }
-}

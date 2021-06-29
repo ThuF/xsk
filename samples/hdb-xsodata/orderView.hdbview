@@ -1,4 +1,0 @@
-schema="HELLO_ODATA";
-query="SELECT * FROM \"hdb-xsodata::order\"";
-depends_on= ["hdb-xsodata::order"];
-

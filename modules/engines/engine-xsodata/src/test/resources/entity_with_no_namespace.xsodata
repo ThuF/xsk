@@ -1,8 +1,0 @@
-service {
-
-    "sample.odata::view" as "MyView";
-    "sample.odata::view";
-    "schemaName"."sample.odata/db::view";
-    "view";
-}
-

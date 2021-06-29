@@ -1,6 +1,0 @@
-{
-     "privileges" : [
-         { "name" : "Developer", "description" : "Developer tasks execution privilege" },
-         { "name" : "Administrator", "description" : "Administration privilege" }
-     ]
-}

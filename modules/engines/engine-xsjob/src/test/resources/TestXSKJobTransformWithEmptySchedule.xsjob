@@ -1,7 +1,0 @@
-{
-	"description": "My Job configuration",
-	"action": "XSJOB:bugXsjob.xsjs::logFunc",
-	"schedules": [
-
-	]
-}
